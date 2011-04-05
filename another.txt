@@ -3,3 +3,9 @@ want to see what happens.
 have not merged anything, yet.
 
 conflict?
+
+modified this file in testing... still a valid branch
+did a git rebase master into my testing branch...
+
+i should try that again.
+with a conflict, maybe?
